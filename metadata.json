@@ -1,0 +1,8 @@
+{
+  "name": "Remix NurseAid Africa",
+  "description": "Connecting patients in urban Tanzania with verified TNMC nurses for home healthcare, clinical encounters, and emergency first aid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
